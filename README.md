@@ -17,3 +17,11 @@ print(archi[0].get_population().get_x())
 ringMigration(archi,plusOne=True)
 print(archi[0].get_population().get_x())
 ```
+
+## Author
+
+**Antonio Roberto** - [Linkedin](https://www.linkedin.com/in/antonio-roberto-1b288b120/)
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](https://github.com/antonioroberto1994/Migration-on-PyGMO-2/blob/master/LICENSE) file for details
